@@ -1,0 +1,14 @@
+version: 0.0
+os: linux
+files:
+  - source: ./
+    destination: /home/ec2-user/soccernet-tracker
+hooks:
+  AfterInstall:
+    - location: scripts/install_dependencies.sh
+      timeout: 300
+      runas: ec2-user
+  ApplicationStart:
+    - location: scripts/run_tracker.sh
+      timeout: 86400  # 24 heures pour le traitement long
+      runas: ec2-user

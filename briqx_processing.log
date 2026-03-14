@@ -1,0 +1,382 @@
+2026-03-13 02:21:18,495 - ERROR - Labels non trouv�s: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Labels-v3.json
+2026-03-13 02:21:18,496 - INFO - V�rifiez que Labels-v3.json est dans le dossier Tracking
+2026-03-13 02:21:18,541 - INFO -    1. La vid�o doit �tre dans: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\
+2026-03-13 02:21:18,542 - INFO -    2. Le fichier Labels-v3.json doit �tre dans le m�me dossier
+2026-03-13 02:21:18,550 - INFO -    C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\
+2026-03-13 02:28:19,010 - ERROR - Labels non trouves: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Labels-v3.json
+2026-03-13 02:28:19,010 - INFO - 
+SOLUTION: Executez d'abord download_data.py
+2026-03-13 02:28:19,010 - INFO -    python download_data.py
+2026-03-13 02:28:19,010 - INFO - 
+Ou verifiez que Labels-v3.json est dans:
+2026-03-13 02:28:19,011 - INFO -    C:\SoccerNetData/[match_folder]/
+2026-03-13 02:28:19,011 - ERROR - Erreur: Labels non trouves: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Labels-v3.json
+2026-03-13 02:28:36,484 - ERROR - Labels non trouves: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Labels-v3.json
+2026-03-13 02:28:36,485 - INFO - 
+SOLUTION: Executez d'abord download_data.py
+2026-03-13 02:28:36,486 - INFO -    python download_data.py
+2026-03-13 02:28:36,487 - INFO - 
+Ou verifiez que Labels-v3.json est dans:
+2026-03-13 02:28:36,487 - INFO -    C:\SoccerNetData/[match_folder]/
+2026-03-13 02:28:36,488 - ERROR - Erreur: Labels non trouves: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Labels-v3.json
+2026-03-13 02:32:26,264 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData
+2026-03-13 02:32:26,265 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData
+2026-03-13 02:32:26,266 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips
+2026-03-13 02:32:26,266 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\ROUGE
+2026-03-13 02:32:26,267 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\VERT
+2026-03-13 02:32:26,268 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\BLEU
+2026-03-13 02:32:26,268 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData\labels
+2026-03-13 02:32:26,269 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData\frames
+2026-03-13 02:32:26,269 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData\actions
+2026-03-13 02:32:26,270 - INFO - Dossier cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData\tracking
+2026-03-13 02:32:26,270 - INFO - ✓ Tous les dossiers ont ete crees automatiquement
+2026-03-13 02:32:26,270 - INFO - Creation d'un fichier de labels exemple...
+2026-03-13 02:32:26,272 - INFO - Fichier de labels exemple cree: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData\labels\Labels-v3.json
+2026-03-13 02:32:26,272 - INFO - ⚠️  IMPORTANT: Vous devez remplacer ce fichier avec vos vraies donnees SoccerNet-v3
+2026-03-13 02:32:26,272 - INFO - ============================================================
+2026-03-13 02:32:26,273 - INFO - PROCESSEUR SOCCERNET-V3 INITIALISE
+2026-03-13 02:32:26,273 - INFO - Video: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Sivert V Celtic (Analysis).mov
+2026-03-13 02:32:26,273 - INFO - Dossier SoccerNetData: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData
+2026-03-13 02:32:26,273 - INFO - Dossier SpottingData: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData
+2026-03-13 02:32:26,274 - INFO - Dossier Analyse: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips
+2026-03-13 02:32:26,274 - INFO - ============================================================
+2026-03-13 02:32:26,274 - INFO - ============================================================
+2026-03-13 02:32:26,275 - INFO - DEBUT DU TRAITEMENT AUTOMATIQUE
+2026-03-13 02:32:26,276 - INFO - ============================================================
+2026-03-13 02:32:26,276 - INFO - Initialisation de la video...
+2026-03-13 02:32:26,367 - INFO - Video initialisee: 30.00 fps, 11075 frames
+2026-03-13 02:32:26,368 - INFO - Resolution: 3840x2160
+2026-03-13 02:32:26,368 - INFO - Duree: 369.17 secondes
+2026-03-13 02:32:26,368 - INFO - Detection automatique des actions...
+2026-03-13 02:32:26,369 - INFO - 2 actions trouvees dans les labels
+2026-03-13 02:32:26,371 - INFO - Dossier cree pour joueur Sivert #7 (ROUGE)
+2026-03-13 02:32:26,373 - INFO - Dossier cree pour joueur Sivert #9 (ROUGE)
+2026-03-13 02:32:26,374 - INFO - Traitement de 2 actions pour 2 joueurs...
+2026-03-13 02:38:30,348 - INFO - ============================================================
+2026-03-13 02:38:30,356 - INFO - TRAITEMENT TERMINE AVEC SUCCES
+2026-03-13 02:38:30,357 - INFO - ============================================================
+2026-03-13 02:38:30,357 - INFO - Actions traitees: 2
+2026-03-13 02:38:30,358 - INFO - Erreurs: 0
+2026-03-13 02:38:30,358 - INFO - Joueurs detectes: 2
+2026-03-13 02:38:30,358 - INFO - 
+Structure creee:
+2026-03-13 02:38:30,359 - INFO -   C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips/
+2026-03-13 02:38:30,361 - INFO -   ├── ROUGE/
+2026-03-13 02:38:30,366 - INFO -   │   ├── #7/
+2026-03-13 02:38:30,366 - INFO -   │   │   ├── clips/
+2026-03-13 02:38:30,367 - INFO -   │   │   └── tracking_data.json
+2026-03-13 02:38:30,367 - INFO -   │   ├── #9/
+2026-03-13 02:38:30,368 - INFO -   │   │   ├── clips/
+2026-03-13 02:38:30,368 - INFO -   │   │   └── tracking_data.json
+2026-03-13 02:38:30,369 - INFO -   ├── VERT/
+2026-03-13 02:38:30,370 - INFO -   ├── BLEU/
+2026-03-13 02:38:30,370 - INFO - 
+Dossier SoccerNetData: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData
+2026-03-13 02:38:30,371 - INFO - Dossier SpottingData: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData
+2026-03-13 02:38:30,371 - INFO - ============================================================
+2026-03-13 02:51:59,993 - INFO - ✓ Tous les dossiers créés
+2026-03-13 02:51:59,993 - INFO - ============================================================
+2026-03-13 02:51:59,993 - INFO - PROCESSEUR SOCCERNET-V3 - DETECTION COMPLETE
+2026-03-13 02:51:59,994 - INFO - Video: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Sivert V Celtic (Analysis).mov
+2026-03-13 02:51:59,994 - INFO - ============================================================
+2026-03-13 02:51:59,994 - INFO - ============================================================
+2026-03-13 02:51:59,994 - INFO - DÉBUT DU TRAITEMENT COMPLET
+2026-03-13 02:51:59,994 - INFO - ============================================================
+2026-03-13 02:51:59,995 - INFO - Initialisation de la vidéo...
+2026-03-13 02:52:00,059 - INFO - ✓ Vidéo initialisée:
+2026-03-13 02:52:00,059 - INFO -   - FPS: 30.00
+2026-03-13 02:52:00,059 - INFO -   - Frames: 11075
+2026-03-13 02:52:00,060 - INFO -   - Résolution: 3840x2160
+2026-03-13 02:52:00,060 - INFO -   - Durée: 369.17 secondes (6.15 minutes)
+2026-03-13 02:52:00,060 - INFO - ============================================================
+2026-03-13 02:52:00,060 - INFO - DÉTECTION DES JOUEURS SUR TOUTES LES FRAMES
+2026-03-13 02:52:00,061 - INFO - ============================================================
+2026-03-13 02:52:00,379 - INFO - ✓ Nouveau joueur détecté: Sivert #7
+2026-03-13 02:52:00,384 - INFO - ✓ Nouveau joueur détecté: Sivert #9
+2026-03-13 02:52:00,387 - INFO - ✓ Nouveau joueur détecté: Celtic #3
+2026-03-13 02:52:00,392 - INFO - ✓ Nouveau joueur détecté: Celtic #5
+2026-03-13 02:59:42,534 - INFO - ============================================================
+2026-03-13 02:59:42,535 - INFO - RAPPORT DE DÉTECTION
+2026-03-13 02:59:42,535 - INFO - ============================================================
+2026-03-13 02:59:42,535 - INFO - Frames analysées: 11075/11075
+2026-03-13 02:59:42,536 - INFO - Frames avec joueurs: 370 (3.3%)
+2026-03-13 02:59:42,536 - INFO - Détections totales: 1480
+2026-03-13 02:59:42,537 - INFO - Joueurs uniques détectés: 4
+2026-03-13 02:59:42,537 - INFO -   • Sivert #7 (ROUGE):
+2026-03-13 02:59:42,537 - INFO -       - Positions: 370
+2026-03-13 02:59:42,538 - INFO -       - Présent de 0.0s à 369.0s
+2026-03-13 02:59:42,538 - INFO -   • Sivert #9 (ROUGE):
+2026-03-13 02:59:42,538 - INFO -       - Positions: 370
+2026-03-13 02:59:42,539 - INFO -       - Présent de 0.0s à 369.0s
+2026-03-13 02:59:42,539 - INFO -   • Celtic #3 (VERT):
+2026-03-13 02:59:42,539 - INFO -       - Positions: 370
+2026-03-13 02:59:42,540 - INFO -       - Présent de 0.0s à 369.0s
+2026-03-13 02:59:42,540 - INFO -   • Celtic #5 (VERT):
+2026-03-13 02:59:42,540 - INFO -       - Positions: 370
+2026-03-13 02:59:42,541 - INFO -       - Présent de 0.0s à 369.0s
+2026-03-13 02:59:42,541 - INFO - ============================================================
+2026-03-13 02:59:42,542 - INFO - DÉTECTION DES ACTIONS PAR MOUVEMENT
+2026-03-13 02:59:42,542 - INFO - ============================================================
+2026-03-13 02:59:42,548 - INFO - Total: 0 actions détectées
+2026-03-13 02:59:42,549 - WARNING - Aucune action détectée
+2026-03-13 02:59:42,552 - INFO - Rapport sauvegardé: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\processing_report.json
+2026-03-13 02:59:42,585 - INFO - ============================================================
+2026-03-13 02:59:42,586 - INFO - TRAITEMENT TERMINÉ AVEC SUCCÈS
+2026-03-13 02:59:42,586 - INFO - ============================================================
+2026-03-13 02:59:42,587 - INFO - Temps d'exécution: 462.59 secondes (7.71 minutes)
+2026-03-13 02:59:42,587 - INFO - Joueurs détectés: 4
+2026-03-13 02:59:42,588 - INFO - Actions détectées: 0
+2026-03-13 02:59:42,588 - INFO - Clips créés: 0
+2026-03-13 02:59:42,588 - INFO - ============================================================
+2026-03-13 02:59:42,589 - INFO - ============================================================
+2026-03-13 02:59:42,589 - INFO - STRUCTURE FINALE DES DOSSIERS
+2026-03-13 02:59:42,589 - INFO - ============================================================
+2026-03-13 02:59:42,590 - INFO - 📁 C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips/
+2026-03-13 02:59:42,591 - INFO -   ├── 📁 ROUGE/
+2026-03-13 02:59:42,592 - INFO -   │   ├── 📁 #7/
+2026-03-13 02:59:42,592 - INFO -   │   │   ├── 📁 clips/
+2026-03-13 02:59:42,593 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 02:59:42,593 - INFO -   │   │   ├── 📁 positions/
+2026-03-13 02:59:42,593 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 02:59:42,594 - INFO -   │   ├── 📁 #9/
+2026-03-13 02:59:42,594 - INFO -   │   │   ├── 📁 clips/
+2026-03-13 02:59:42,595 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 02:59:42,595 - INFO -   │   │   ├── 📁 positions/
+2026-03-13 02:59:42,595 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 02:59:42,596 - INFO - 
+📁 C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData/
+2026-03-13 02:59:42,597 - INFO -   ├── 📁 actions/
+2026-03-13 02:59:42,597 - INFO -   ├── 📁 tracking/
+2026-03-13 02:59:42,597 - INFO -   └── 📁 players/
+2026-03-13 02:59:42,598 - INFO - 
+📁 C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData/
+2026-03-13 02:59:42,598 - INFO -   ├── 📁 labels/
+2026-03-13 02:59:42,599 - INFO -   ├── 📁 frames/
+2026-03-13 02:59:42,599 - INFO -   └── 📁 tracking/
+2026-03-13 02:59:42,599 - INFO - ============================================================
+2026-03-13 11:35:43,234 - INFO - ✓ All folders created
+2026-03-13 11:35:43,403 - INFO - ======================================================================
+2026-03-13 11:35:43,405 - INFO - SOCCERNET-V3 PROCESSOR WITH OFFICIAL DATA
+2026-03-13 11:35:43,406 - INFO - ======================================================================
+2026-03-13 11:35:43,407 - INFO - Video: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Sivert V Celtic (Analysis).mov
+2026-03-13 11:35:43,411 - INFO - Label files found: 56
+2026-03-13 11:35:43,421 - INFO -   - C:\SoccerNetData\germany_bundesliga\2015-2016\2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln\Labels-v3.json
+2026-03-13 11:35:43,423 - INFO -   - C:\SoccerNetData\spain_laliga\2016-2017\2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol\Labels-v3.json
+2026-03-13 11:35:43,425 - INFO -   - C:\SoccerNetData\europe_uefa-champions-league\2014-2015\2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich\Labels-v3.json
+2026-03-13 11:35:43,426 - INFO -   - C:\SoccerNetData\germany_bundesliga\2016-2017\2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund\Labels-v3.json
+2026-03-13 11:35:43,432 - INFO -   - C:\SoccerNetData\spain_laliga\2015-2016\2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF\Labels-v3.json
+2026-03-13 11:35:43,434 - INFO - ======================================================================
+2026-03-13 11:35:43,438 - INFO - ======================================================================
+2026-03-13 11:35:43,442 - INFO - STARTING PROCESSING WITH SOCCERNET-V3 DATA
+2026-03-13 11:35:43,443 - INFO - ======================================================================
+2026-03-13 11:35:43,447 - INFO - Initializing video...
+2026-03-13 11:35:43,719 - INFO - ✓ Video initialized:
+2026-03-13 11:35:43,721 - INFO -   - FPS: 30.00
+2026-03-13 11:35:43,722 - INFO -   - Frames: 11075
+2026-03-13 11:35:43,723 - INFO -   - Resolution: 3840x2160
+2026-03-13 11:35:43,724 - INFO -   - Duration: 369.17 seconds
+2026-03-13 11:35:43,725 - INFO - ======================================================================
+2026-03-13 11:35:43,726 - INFO - LOADING SOCCERNET-V3 LABELS
+2026-03-13 11:35:43,727 - INFO - ======================================================================
+2026-03-13 11:35:45,878 - INFO - ======================================================================
+2026-03-13 11:35:45,880 - INFO - LOADING REPORT
+2026-03-13 11:35:45,881 - INFO - ======================================================================
+2026-03-13 11:35:45,882 - INFO - Label files processed: 56
+2026-03-13 11:35:45,884 - INFO - Total actions loaded: 2
+2026-03-13 11:35:45,885 - INFO - Unique players detected: 2
+2026-03-13 11:35:45,886 - INFO -   • Sivert (RED): 2 players - Numbers [7, 9]
+2026-03-13 11:35:45,888 - INFO - ======================================================================
+2026-03-13 11:35:46,319 - INFO - ======================================================================
+2026-03-13 11:35:46,319 - INFO - CREATING CLIPS FOR ALL ACTIONS
+2026-03-13 11:35:46,320 - INFO - ======================================================================
+2026-03-13 11:35:46,320 - INFO - Total actions to process: 2
+2026-03-13 11:54:24,742 - INFO - ✓ All folders created for match: Luton Town - Northampton Town
+2026-03-13 11:54:24,820 - INFO - ======================================================================
+2026-03-13 11:54:24,820 - INFO - SOCCERNET-V3 PROCESSOR WITH OFFICIAL DATA
+2026-03-13 11:54:24,820 - INFO - ======================================================================
+2026-03-13 11:54:24,821 - INFO - Match: Luton Town - Northampton Town
+2026-03-13 11:54:24,821 - INFO - Video: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\RK_Semifinals_Luton Town - Northampton Town_04032026.mp4
+2026-03-13 11:54:24,821 - INFO - Label files found: 55
+2026-03-13 11:54:24,822 - INFO - Output folder: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town
+2026-03-13 11:54:24,822 - INFO -   - C:\SoccerNetData\spain_laliga\2016-2017\2017-04-08 - 21-45 Malaga 2 - 0 Barcelona\Labels-v3.json
+2026-03-13 11:54:24,823 - INFO -   - C:\SoccerNetData\europe_uefa-champions-league\2016-2017\2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid\Labels-v3.json
+2026-03-13 11:54:24,823 - INFO -   - C:\SoccerNetData\spain_laliga\2015-2016\2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe\Labels-v3.json
+2026-03-13 11:54:24,824 - INFO - ======================================================================
+2026-03-13 11:54:24,824 - INFO - ======================================================================
+2026-03-13 11:54:24,824 - INFO - STARTING PROCESSING FOR MATCH: Luton Town - Northampton Town
+2026-03-13 11:54:24,824 - INFO - ======================================================================
+2026-03-13 11:54:24,825 - INFO - Initializing video...
+2026-03-13 11:54:25,055 - INFO - ✓ Video initialized:
+2026-03-13 11:54:25,056 - INFO -   - FPS: 25.00
+2026-03-13 11:54:25,056 - INFO -   - Frames: 150100
+2026-03-13 11:54:25,056 - INFO -   - Resolution: 1920x1080
+2026-03-13 11:54:25,057 - INFO -   - Duration: 6004.00 seconds (100.07 minutes)
+2026-03-13 11:54:25,057 - INFO - ======================================================================
+2026-03-13 11:54:25,057 - INFO - LOADING SOCCERNET-V3 LABELS
+2026-03-13 11:54:25,058 - INFO - ======================================================================
+2026-03-13 11:54:26,315 - WARNING - No players found in labels. Creating simulated data for Luton Town vs Northampton Town.
+2026-03-13 11:54:26,317 - INFO - ✓ Created simulated data: 22 players
+2026-03-13 11:54:26,317 - INFO - ======================================================================
+2026-03-13 11:54:26,318 - INFO - LOADING REPORT
+2026-03-13 11:54:26,318 - INFO - ======================================================================
+2026-03-13 11:54:26,319 - INFO - Label files processed: 55
+2026-03-13 11:54:26,319 - INFO - Total actions loaded: 0
+2026-03-13 11:54:26,319 - INFO - Unique players detected: 22
+2026-03-13 11:54:26,320 - INFO -   • Luton Town: 11 players - Numbers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+2026-03-13 11:54:26,321 - INFO -   • Northampton Town: 11 players - Numbers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+2026-03-13 11:54:26,321 - INFO - ======================================================================
+2026-03-13 11:54:26,396 - INFO - ======================================================================
+2026-03-13 11:54:26,397 - INFO - CREATING CLIPS FOR ALL ACTIONS
+2026-03-13 11:54:26,397 - INFO - ======================================================================
+2026-03-13 11:54:26,398 - INFO - Total actions to process: 132
+2026-03-13 12:22:47,648 - INFO - ======================================================================
+2026-03-13 12:22:47,664 - INFO - CLIP CREATION REPORT
+2026-03-13 12:22:47,665 - INFO - ======================================================================
+2026-03-13 12:22:47,665 - INFO - Total actions: 132
+2026-03-13 12:22:47,666 - INFO - Clips created: 132
+2026-03-13 12:22:47,666 - INFO - Errors: 0
+2026-03-13 12:22:47,668 - INFO - Success rate: 100.0%
+2026-03-13 12:22:47,669 - INFO - 
+By team:
+2026-03-13 12:22:47,670 - INFO -   • Luton Town: 66 actions
+2026-03-13 12:22:47,673 - INFO -   • Northampton Town: 66 actions
+2026-03-13 12:22:47,673 - INFO - 
+By player:
+2026-03-13 12:22:47,676 - INFO -   • Luton Town_1: 6 clips
+2026-03-13 12:22:47,677 - INFO -   • Luton Town_10: 6 clips
+2026-03-13 12:22:47,678 - INFO -   • Luton Town_11: 6 clips
+2026-03-13 12:22:47,679 - INFO -   • Luton Town_2: 6 clips
+2026-03-13 12:22:47,680 - INFO -   • Luton Town_3: 6 clips
+2026-03-13 12:22:47,680 - INFO -   • Luton Town_4: 6 clips
+2026-03-13 12:22:47,681 - INFO -   • Luton Town_5: 6 clips
+2026-03-13 12:22:47,681 - INFO -   • Luton Town_6: 6 clips
+2026-03-13 12:22:47,682 - INFO -   • Luton Town_7: 6 clips
+2026-03-13 12:22:47,682 - INFO -   • Luton Town_8: 6 clips
+2026-03-13 12:22:47,683 - INFO -   • Luton Town_9: 6 clips
+2026-03-13 12:22:47,684 - INFO -   • Northampton Town_1: 6 clips
+2026-03-13 12:22:47,685 - INFO -   • Northampton Town_10: 6 clips
+2026-03-13 12:22:47,685 - INFO -   • Northampton Town_11: 6 clips
+2026-03-13 12:22:47,686 - INFO -   • Northampton Town_2: 6 clips
+2026-03-13 12:22:47,686 - INFO -   • Northampton Town_3: 6 clips
+2026-03-13 12:22:47,687 - INFO -   • Northampton Town_4: 6 clips
+2026-03-13 12:22:47,687 - INFO -   • Northampton Town_5: 6 clips
+2026-03-13 12:22:47,689 - INFO -   • Northampton Town_6: 6 clips
+2026-03-13 12:22:47,690 - INFO -   • Northampton Town_7: 6 clips
+2026-03-13 12:22:47,691 - INFO -   • Northampton Town_8: 6 clips
+2026-03-13 12:22:47,692 - INFO -   • Northampton Town_9: 6 clips
+2026-03-13 12:22:47,958 - INFO - Master report saved: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town\master_report.json
+2026-03-13 12:22:48,008 - INFO - ======================================================================
+2026-03-13 12:22:48,009 - INFO - FINAL STRUCTURE FOR MATCH: Luton Town - Northampton Town
+2026-03-13 12:22:48,009 - INFO - ======================================================================
+2026-03-13 12:22:48,010 - INFO - 📁 C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town/
+2026-03-13 12:22:48,024 - INFO -   ├── 📁 LUTON_TOWN/ (11 players)
+2026-03-13 12:22:48,044 - INFO -   │   ├── 📁 #1/ (6 clips)
+2026-03-13 12:22:48,045 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,046 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,047 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,049 - INFO -   │   ├── 📁 #10/ (6 clips)
+2026-03-13 12:22:48,049 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,050 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,051 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,052 - INFO -   │   ├── 📁 #11/ (6 clips)
+2026-03-13 12:22:48,052 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,053 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,054 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,056 - INFO -   │   ├── 📁 #2/ (6 clips)
+2026-03-13 12:22:48,056 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,057 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,057 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,059 - INFO -   │   ├── 📁 #3/ (6 clips)
+2026-03-13 12:22:48,060 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,060 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,061 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,063 - INFO -   │   ├── 📁 #4/ (6 clips)
+2026-03-13 12:22:48,064 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,065 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,065 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,068 - INFO -   │   ├── 📁 #5/ (6 clips)
+2026-03-13 12:22:48,068 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,069 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,070 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,072 - INFO -   │   ├── 📁 #6/ (6 clips)
+2026-03-13 12:22:48,073 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,073 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,074 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,076 - INFO -   │   ├── 📁 #7/ (6 clips)
+2026-03-13 12:22:48,077 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,078 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,078 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,080 - INFO -   │   ├── 📁 #8/ (6 clips)
+2026-03-13 12:22:48,081 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,081 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,082 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,084 - INFO -   │   ├── 📁 #9/ (6 clips)
+2026-03-13 12:22:48,084 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,084 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,085 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,087 - INFO -   ├── 📁 NORTHAMPTON_TOWN/ (11 players)
+2026-03-13 12:22:48,090 - INFO -   │   ├── 📁 #1/ (6 clips)
+2026-03-13 12:22:48,090 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,091 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,091 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,092 - INFO -   │   ├── 📁 #10/ (6 clips)
+2026-03-13 12:22:48,093 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,093 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,094 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,095 - INFO -   │   ├── 📁 #11/ (6 clips)
+2026-03-13 12:22:48,095 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,096 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,096 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,098 - INFO -   │   ├── 📁 #2/ (6 clips)
+2026-03-13 12:22:48,098 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,099 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,099 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,100 - INFO -   │   ├── 📁 #3/ (6 clips)
+2026-03-13 12:22:48,101 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,101 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,102 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,103 - INFO -   │   ├── 📁 #4/ (6 clips)
+2026-03-13 12:22:48,103 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,103 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,104 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,107 - INFO -   │   ├── 📁 #5/ (6 clips)
+2026-03-13 12:22:48,107 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,108 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,108 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,110 - INFO -   │   ├── 📁 #6/ (6 clips)
+2026-03-13 12:22:48,110 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,111 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,112 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,115 - INFO -   │   ├── 📁 #7/ (6 clips)
+2026-03-13 12:22:48,116 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,116 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,116 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,118 - INFO -   │   ├── 📁 #8/ (6 clips)
+2026-03-13 12:22:48,118 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,119 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,120 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,122 - INFO -   │   ├── 📁 #9/ (6 clips)
+2026-03-13 12:22:48,123 - INFO -   │   │   ├── 📁 clips/ (6 files)
+2026-03-13 12:22:48,124 - INFO -   │   │   ├── 📁 tracking/
+2026-03-13 12:22:48,124 - INFO -   │   │   └── 📄 tracking_data.json
+2026-03-13 12:22:48,125 - INFO - 
+📁 C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SpottingData/
+2026-03-13 12:22:48,127 - INFO -   ├── 📁 actions/
+2026-03-13 12:22:48,127 - INFO -   ├── 📁 tracking/
+2026-03-13 12:22:48,129 - INFO -   └── 📁 players/ (22 files)
+2026-03-13 12:22:48,130 - INFO -   └── 📄 Luton Town - Northampton Town_report.json
+2026-03-13 12:22:48,131 - INFO - 
+📁 C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SoccerNetData/
+2026-03-13 12:22:48,132 - INFO -   ├── 📁 labels/ (55 files)
+2026-03-13 12:22:48,133 - INFO -   ├── 📁 frames/
+2026-03-13 12:22:48,133 - INFO -   └── 📁 tracking/
+2026-03-13 12:22:48,134 - INFO - ======================================================================
+2026-03-13 12:22:48,136 - INFO - ======================================================================
+2026-03-13 12:22:48,137 - INFO - PROCESSING COMPLETED SUCCESSFULLY
+2026-03-13 12:22:48,138 - INFO - ======================================================================
+2026-03-13 12:22:48,139 - INFO - Match: Luton Town - Northampton Town
+2026-03-13 12:22:48,140 - INFO - Players detected: 22
+2026-03-13 12:22:48,141 - INFO - Total actions: 132
+2026-03-13 12:22:48,142 - INFO - Clips created: 132
+2026-03-13 12:22:48,142 - INFO - Output folder: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town
+2026-03-13 12:22:48,143 - INFO - ======================================================================

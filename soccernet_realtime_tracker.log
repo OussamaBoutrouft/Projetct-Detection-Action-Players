@@ -1,0 +1,26 @@
+2026-03-13 13:46:28,686 - INFO - ✅ Created 30 directories
+2026-03-13 13:46:28,688 - INFO - ================================================================================
+2026-03-13 13:46:28,689 - INFO - ⚽ SOCCERNET REALTIME TRACKER - FRAME BY FRAME ANALYSIS ⚽
+2026-03-13 13:46:28,690 - INFO - ================================================================================
+2026-03-13 13:46:28,691 - INFO - Match: Luton Town vs Northampton Town
+2026-03-13 13:46:28,692 - INFO - Video: RK_Semifinals_Luton Town - Northampton Town_04032026.mp4
+2026-03-13 13:46:28,694 - INFO - Output: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\SOCCERNET_REALTIME\Luton_Town_vs_Northampton_Town
+2026-03-13 13:46:28,697 - INFO - ================================================================================
+2026-03-13 13:46:28,698 - INFO - Initializing video...
+2026-03-13 13:46:28,870 - INFO - ✅ ActionDetector initialized: 25.0 fps, 1920x1080
+2026-03-13 13:46:28,871 - INFO - ✅ Video initialized:
+2026-03-13 13:46:28,871 - INFO -    • FPS: 25.00
+2026-03-13 13:46:28,872 - INFO -    • Frames: 150,100
+2026-03-13 13:46:28,872 - INFO -    • Resolution: 1920x1080
+2026-03-13 13:46:28,873 - INFO -    • Duration: 100.1 minutes
+2026-03-13 13:46:28,873 - INFO - ================================================================================
+2026-03-13 13:46:28,873 - INFO - 🎥 ANALYSE FRAME PAR FRAME
+2026-03-13 13:46:28,874 - INFO - ================================================================================
+2026-03-13 13:46:28,874 - INFO - Total frames à analyser: 150,100
+2026-03-13 13:46:28,874 - INFO - Temps estimé: ~83.4 minutes à 30 fps
+2026-03-13 13:46:28,875 - INFO - ================================================================================
+2026-03-13 18:08:09,363 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+

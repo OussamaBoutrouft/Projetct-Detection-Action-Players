@@ -1,0 +1,100 @@
+2026-03-13 12:24:00,991 - INFO - ✓ All folders created for match: Luton Town - Northampton Town
+2026-03-13 12:24:01,314 - INFO - ================================================================================
+2026-03-13 12:24:01,327 - INFO - SOCCERNET-V3 OPTIMIZED PROCESSOR - LUTON TOWN VS NORTHAMPTON TOWN
+2026-03-13 12:24:01,344 - INFO - ================================================================================
+2026-03-13 12:24:01,348 - INFO - Match: Luton Town - Northampton Town
+2026-03-13 12:24:01,350 - INFO - Video: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\RK_Semifinals_Luton Town - Northampton Town_04032026.mp4
+2026-03-13 12:24:01,353 - INFO - Duration: Unknown minutes
+2026-03-13 12:24:01,360 - INFO - Output folder: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town
+2026-03-13 12:24:01,360 - INFO - ================================================================================
+2026-03-13 12:24:01,361 - INFO - ================================================================================
+2026-03-13 12:24:01,379 - INFO - STARTING OPTIMIZED PROCESSING FOR: Luton Town - Northampton Town
+2026-03-13 12:24:01,380 - INFO - ================================================================================
+2026-03-13 12:24:01,381 - INFO - Initializing video...
+2026-03-13 12:24:01,551 - INFO - ✓ Video initialized successfully:
+2026-03-13 12:24:01,552 - INFO -   - FPS: 25.00
+2026-03-13 12:24:01,552 - INFO -   - Frames: 150,100
+2026-03-13 12:24:01,553 - INFO -   - Resolution: 1920x1080
+2026-03-13 12:24:01,553 - INFO -   - Duration: 6004.00 seconds (100.07 minutes)
+2026-03-13 12:24:01,553 - INFO - ================================================================================
+2026-03-13 12:24:01,554 - INFO - LOADING SOCCERNET-V3 MATCH DATA
+2026-03-13 12:24:01,554 - INFO - ================================================================================
+2026-03-13 12:24:02,475 - INFO - ================================================================================
+2026-03-13 12:24:02,476 - INFO - MATCH DATA LOADING REPORT
+2026-03-13 12:24:02,477 - INFO - ================================================================================
+2026-03-13 12:24:02,478 - INFO - Label files processed: 55
+2026-03-13 12:24:02,478 - INFO - Total actions loaded: 0
+2026-03-13 12:24:02,479 - INFO - Unique players detected: 0
+2026-03-13 12:24:02,480 - INFO - 
+Teams:
+2026-03-13 12:24:02,480 - INFO - ================================================================================
+2026-03-13 12:24:02,484 - INFO - Few actions found in labels. Scanning video directly...
+2026-03-13 12:24:02,484 - INFO - ================================================================================
+2026-03-13 12:24:02,485 - INFO - SCANNING VIDEO FOR ALL ACTIONS - FRAME BY FRAME
+2026-03-13 12:24:02,486 - INFO - ================================================================================
+2026-03-13 12:24:02,487 - INFO - Total frames to analyze: 150,100
+2026-03-13 12:24:02,488 - INFO - This will take approximately: 83.4 minutes at 30 fps
+2026-03-13 12:24:02,489 - INFO - ================================================================================
+2026-03-13 12:29:04,067 - INFO - Processing interrupted by user
+2026-03-13 12:29:12,823 - INFO - ✓ All folders created for match: Luton Town - Northampton Town
+2026-03-13 12:29:12,998 - INFO - ================================================================================
+2026-03-13 12:29:12,999 - INFO - SOCCERNET-V3 OPTIMIZED PROCESSOR - LUTON TOWN VS NORTHAMPTON TOWN
+2026-03-13 12:29:12,999 - INFO - ================================================================================
+2026-03-13 12:29:12,999 - INFO - Match: Luton Town - Northampton Town
+2026-03-13 12:29:13,000 - INFO - Video: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\RK_Semifinals_Luton Town - Northampton Town_04032026.mp4
+2026-03-13 12:29:13,000 - INFO - Duration: Unknown minutes
+2026-03-13 12:29:13,000 - INFO - Output folder: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town
+2026-03-13 12:29:13,001 - INFO - ================================================================================
+2026-03-13 12:29:13,001 - INFO - ================================================================================
+2026-03-13 12:29:13,001 - INFO - STARTING OPTIMIZED PROCESSING FOR: Luton Town - Northampton Town
+2026-03-13 12:29:13,002 - INFO - ================================================================================
+2026-03-13 12:29:13,002 - INFO - Initializing video...
+2026-03-13 12:29:13,074 - INFO - ✓ Video initialized successfully:
+2026-03-13 12:29:13,074 - INFO -   - FPS: 25.00
+2026-03-13 12:29:13,074 - INFO -   - Frames: 150,100
+2026-03-13 12:29:13,075 - INFO -   - Resolution: 1920x1080
+2026-03-13 12:29:13,075 - INFO -   - Duration: 6004.00 seconds (100.07 minutes)
+2026-03-13 12:29:13,075 - INFO - ================================================================================
+2026-03-13 12:29:13,076 - INFO - LOADING SOCCERNET-V3 MATCH DATA
+2026-03-13 12:29:13,076 - INFO - ================================================================================
+2026-03-13 12:29:13,678 - INFO - ================================================================================
+2026-03-13 12:29:13,678 - INFO - MATCH DATA LOADING REPORT
+2026-03-13 12:29:13,679 - INFO - ================================================================================
+2026-03-13 12:29:13,679 - INFO - Label files processed: 55
+2026-03-13 12:29:13,679 - INFO - Total actions loaded: 0
+2026-03-13 12:29:13,680 - INFO - Unique players detected: 0
+2026-03-13 12:29:13,680 - INFO - 
+Teams:
+2026-03-13 12:29:13,680 - INFO - ================================================================================
+2026-03-13 12:29:13,681 - INFO - Few actions found in labels. Scanning video directly...
+2026-03-13 12:29:13,681 - INFO - ================================================================================
+2026-03-13 12:29:13,682 - INFO - SCANNING VIDEO FOR ALL ACTIONS - FRAME BY FRAME
+2026-03-13 12:29:13,682 - INFO - ================================================================================
+2026-03-13 12:29:13,682 - INFO - Total frames to analyze: 150,100
+2026-03-13 12:29:13,683 - INFO - This will take approximately: 83.4 minutes at 30 fps
+2026-03-13 12:29:13,683 - INFO - ================================================================================
+2026-03-13 12:53:10,812 - INFO - ✓ Frame scanning complete: 0 potential actions detected
+2026-03-13 12:53:10,813 - WARNING - No actions detected. Cannot create clips.
+2026-03-13 12:53:10,813 - INFO - ================================================================================
+2026-03-13 12:53:10,813 - INFO - GENERATING COMPREHENSIVE REPORT
+2026-03-13 12:53:10,814 - INFO - ================================================================================
+2026-03-13 12:53:10,818 - INFO - ✓ Complete report saved: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town\complete_match_report.json
+2026-03-13 12:53:10,819 - INFO - ✓ Summary saved: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town\match_summary.txt
+2026-03-13 12:53:10,840 - INFO - ================================================================================
+2026-03-13 12:53:10,841 - INFO - FINAL PROCESSING STATISTICS
+2026-03-13 12:53:10,841 - INFO - ================================================================================
+2026-03-13 12:53:10,841 - INFO - Match: Luton Town - Northampton Town
+2026-03-13 12:53:10,842 - INFO - Total Frames: 150,100
+2026-03-13 12:53:10,842 - INFO - Players Detected: 0
+2026-03-13 12:53:10,842 - INFO - Total Actions: 0
+2026-03-13 12:53:10,843 - INFO - Clips Created: 0
+2026-03-13 12:53:10,843 - INFO - 
+================================================================================
+2026-03-13 12:53:10,844 - INFO - Output folder: C:\Users\HP\Downloads\Soccernet-v3-main-Tracking\Analyse_Clips\Luton Town - Northampton Town
+2026-03-13 12:53:10,844 - INFO - ================================================================================
+2026-03-13 12:53:10,845 - INFO - ================================================================================
+2026-03-13 12:53:10,845 - INFO - PROCESSING COMPLETED SUCCESSFULLY
+2026-03-13 12:53:10,846 - INFO - ================================================================================
+2026-03-13 12:53:10,846 - INFO - Total processing time: 1437.84 seconds (23.96 minutes)
+2026-03-13 12:53:10,847 - INFO - Average processing speed: 104.4 frames/second
+2026-03-13 12:53:10,847 - INFO - ================================================================================
